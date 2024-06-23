@@ -6,4 +6,4 @@
   sudo apt-get update -y
   sudo apt-get install fontconfig openjdk-17-jre
   sudo apt-get install jenkins  
-  sudo chmod +Jenkins.sh
+  
