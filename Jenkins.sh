@@ -5,5 +5,5 @@
     /etc/apt/sources.list.d/jenkins.list > /dev/null
   sudo apt-get update -y
   sudo apt-get install fontconfig openjdk-17-jre
-  sudo apt-get install jenkins  
+  sudo apt-get install jenkins -y
   
